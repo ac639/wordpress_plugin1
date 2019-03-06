@@ -1,1 +1,1 @@
-Wordpress site 1
+Wordpress plugin 1
