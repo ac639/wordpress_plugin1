@@ -64,4 +64,4 @@ typings/
 .idea
 
 # wordpress config
-#.wp-config
+wp-config
